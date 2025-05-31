@@ -1,11 +1,10 @@
-# Magic Card React Demo
+# Card React Demo
 
-This project is a simple React application that displays a single card styled to look like a Magic: The Gathering card. The card is centered on the screen and uses custom CSS for an authentic MTG appearance.
+Simple card display with custom cards.
 
 ## Features
 - Magic: The Gathering inspired card design
 - Responsive and centered layout
-- Easily extendable for more cards or features
 
 ## Getting Started
 
@@ -27,8 +26,13 @@ This project is a simple React application that displays a single card styled to
 
 ## Notes
 - For now, the site only displays a single card in the center of the screen.
-- You can customize the card's content and appearance by editing `card.jsx` and `cardcss.css`.
 
 ---
 
-Feel free to expand this project with more cards, interactivity, or game logic!
+## Future updates 
+- Will add buttons to browse through custom created cards
+- Custom created cards with art and descriptions
+- Animations 
+- Better site design and look
+- Card types
+- Descriptions for keywords
