@@ -8,7 +8,7 @@ const cardData = [
         power: "3",
         toughness: "5",
         description: "'Austin the Great, was a conqueror of the world. He was a great leader and a great warrior. He was a great king. He was a great emperor. He was a great pharaoh. He was a great king of Egypt.'",
-        image: "/images/austin.png"
+        image: "/images/Austin.webp"
     },
     {
         name: "Nick the Great",

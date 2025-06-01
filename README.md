@@ -5,6 +5,8 @@ Simple card display with custom cards.
 ## Features
 - Magic: The Gathering inspired card design
 - Responsive and centered layout
+- Browse through custom created cards with buttons
+- Using prob data, can expand current card list
 
 ## Getting Started
 
@@ -25,14 +27,19 @@ Simple card display with custom cards.
 - `src/components/cards/cardcss.css` – Magic card-specific styles
 
 ## Notes
-- For now, the site only displays a single card in the center of the screen.
+- For now, the site only displays a single card in the center of the screen, with two custom cards and buttons.
 
 ---
 
+# Current New Features:
+- Buttons to browse created cards
+- Two customs cards with data handled props
+- Better card design
+- Simple card backs
+- Flipping animation when changing card
+
 ## Future updates 
-- Will add buttons to browse through custom created cards
-- Custom created cards with art and descriptions
-- Animations 
 - Better site design and look
 - Card types
+- More cards
 - Descriptions for keywords
