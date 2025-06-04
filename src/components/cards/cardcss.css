@@ -106,7 +106,7 @@
 }
 
 .card-description-text {
-    font-size: 13px;
+    font-size: 15px;
     font-weight: normal;
     margin: 0;
     color: #000000;
@@ -125,6 +125,14 @@
     background: none;
     border-radius: 0 0 12px 12px;
 }
+
+.card-description-keywords {
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 5px;
+    color: #000000;
+}
+
 
 .card-footer-text {
     margin: 0;
