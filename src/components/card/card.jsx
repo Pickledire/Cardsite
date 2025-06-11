@@ -9,6 +9,15 @@ const keywordDescriptions = {
     Reach: "This creature can block creatures with flying.",
     Hexproof: "This creature can't be affected by spells or abilities that target creatures.",
     Deathtouch: "Any creature will die if attacking or blocking this creature.",
+    FirstStrike: "This creature can attack a player or planeswalker before damage is dealt.",
+    Vigilance: "This creature can't be blocked except by creatures with vigilance or reach.",
+    Lifelink: "When this creature deals damage to a player or planeswalker, you gain that much life.",
+    Indestructible: "This creature can't be destroyed by any effects.",
+    Flash: "This creature can attack your opponent or planeswalker during your turn.",
+    Pump: "This creature gains power and toughness.",
+    Defender: "This creature can't attack.",
+    Shroud: "This creature can't be targeted by spells or abilities.",
+
     // Add more as needed
 };
 

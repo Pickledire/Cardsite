@@ -1,9 +1,11 @@
 import React from 'react';
+import carddata from '../../carddata';
 
 const CardNumber = ({ cardNumber }) => {
+    const totalCards = carddata.length;
     return (
         <div className="card-number">
-            {cardNumber} / 8
+            {cardNumber} / {carddata.length}
         </div>
     );
 };

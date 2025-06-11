@@ -46,18 +46,18 @@ const cardData = [
         cardNumber: "4"
     },
     {
-        name: "Thyago The Coder",
+        name: "Thyago The Knife Master",
         type: "Creature",
         cost: "2 Mana",
         power: "4",
         toughness: "4",
         keywords: "Hexproof",
-        description: "Thyago The Coder is a great coder. He is the friend of the best coder in the world, Pedro the electric Blanca.",
+        description: "Thyago The Coder is a great coder. He is the friend of the best coder in the world, Pedro the electric Blanca. Skilled with all knives created.",
         image: "/images/Thyago.png",
         cardNumber: "5"
     },
     {
-        name: "Pedro the electric Blanca",
+        name: "Pedro The Electric Blanca",
         type: "Creature",
         cost: "3 Mana",
         power: "3",
@@ -88,6 +88,17 @@ const cardData = [
         description: "Cristian the colombian 'Entity' was given the title of 'Entity' by Brenden the Comsmic Coder because of he is built different.",
         image: "/images/Cristian.png",
         cardNumber: "8"
+    },
+    {
+        name: "Chess Grandmaster Anti",
+        type: "Creature",
+        cost: "6 Mana",
+        power: "7",
+        toughness: "2",
+        keywords: "Deathtouch, Hexproof, FirstStrike",
+        description: "Chess Grandmaster Anti is a great chess player to grace the earth. Even said to be able to beat Magnus Carlsen in a game of chess blindfolded.",
+        image: "/images/Anti.png",
+        cardNumber: "9"
     }
 ]
 

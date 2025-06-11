@@ -4,6 +4,9 @@ import '../index.css';
 import cardData from '../carddata';
 import { useState } from 'react';
 import CardNumber from '../components/cardnumber/cardnumber';
+import './main.css';
+import '../components/canvas/canvascss.css';
+import Canvas from '../components/canvas/canvas';
 
 const SiteMain = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -22,6 +25,7 @@ const SiteMain = () => {
 
     return (
         <div className="site-main">
+            <Canvas />
             <CardNumber cardNumber={cardData[currentIndex].cardNumber} />
             <Card info={cardData[currentIndex]} isFlipped={isFlipped} />
             <div className="button-container">  
